@@ -8,4 +8,4 @@ Sample website with plenty of files for demos.
 Learning github and its uses 
 
 ### COPYRIGHT
-2020 Copyright Notice
+2020 Copyright Notice needed here. 
