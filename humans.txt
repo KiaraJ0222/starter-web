@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Kiara -- Apprentice
+    Kiara -- Apprentice -- Worker
 
 # THANKS
 
@@ -14,3 +14,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
+	
